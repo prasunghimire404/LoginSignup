@@ -88,7 +88,7 @@ psql --version
 ```bash
 # Clone the repository
 git clone <your-repo-url>
-cd auth-system
+cd LoginSignup 
 
 # Install backend dependencies
 cd backend
